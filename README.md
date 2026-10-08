@@ -9,8 +9,8 @@ My research primarily focuses on audio deepfake detection and speech signal proc
 ### Research Interests
 
 - Audio Deepfake Detection
-- Speech Processing
-- Speech Representation Learning
+- Speech Signal Processing
+- Multimedia Content Security
 - Deep Learning
 
 ### Academic Affiliation

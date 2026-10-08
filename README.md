@@ -1,16 +1,25 @@
-## Hi there 👋
+# Zhang Wenfei
 
-<!--
-**wenfeizhang1/wenfeizhang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am a Master's student at **Huazhong University of Science and Technology (HUST)**, Wuhan, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research focuses on **Audio Deepfake Detection**, with particular interests in speech representation learning, emotion and speaker characteristics, and temporal modeling.
+
+### Research Interests
+
+- Audio Deepfake Detection
+- Speech Processing
+- Speech Representation Learning
+- Deep Learning
+
+### Academic Affiliation
+
+- **Institution:** Huazhong University of Science and Technology (HUST)
+- **Position:** Master's Student
+- **Location:** Wuhan, China
+
+### Contact
+
+- **Institutional Email:** m202573180@hust.edu.cn
+- **Personal Email:** zzzwff6@gmail.com
